@@ -50,18 +50,18 @@ I'm a full stack developer based in France, specialized in designing and buildin
     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /><br>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   </div>
-
+<br>
   <div align="center">
     <strong>Backend</strong><br><br>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   </div>
-
+<br>
   <div align="center">
     <strong>Database</strong><br><br>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" /><br>
     <img src="https://img.shields.io/badge/ORM-Prisma-black" />
   </div>
-
+<br>
   <div align="center">
     <strong>Others</strong><br><br>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /><br>
