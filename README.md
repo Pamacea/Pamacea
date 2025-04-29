@@ -81,7 +81,7 @@ I'm a full stack developer based in France, specialized in designing and buildin
 ## 📫 Contact
 
  **Email** [pamacea@live.fr](mailto:pamacea@live.fr)  
- **Instagram** [@yourusername](https://www.instagram.com/pama.eaa/)  
+ **Instagram** [@pama.eaa](https://www.instagram.com/pama.eaa/)  
  **LinkedIn** [LinkedIn](www.linkedin.com/in/yanis-dessaint)  
 
 ## 🙌 Acknowledgments
