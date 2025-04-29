@@ -42,24 +42,34 @@ I'm a full stack developer based in France, specialized in designing and buildin
 
 ## 🛠️ Tech Stack
 
-**Frontend:**
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Next.js](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white)
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  <div align="center">
+    <strong>Frontend</strong><br><br>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /><br>
+    <img src="https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white" /><br>
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /><br>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  </div>
 
-**Backend:**
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  <div align="center">
+    <strong>Backend</strong><br><br>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  </div>
 
-**Database:**
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-- ![Prisma](https://img.shields.io/badge/ORM-Prisma-black)
+  <div align="center">
+    <strong>Database</strong><br><br>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" /><br>
+    <img src="https://img.shields.io/badge/ORM-Prisma-black" />
+  </div>
 
-**Others:**
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-383838?logo=figma)
+  <div align="center">
+    <strong>Others</strong><br><br>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /><br>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /><br>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /><br>
+    <img src="https://img.shields.io/badge/Figma-383838?logo=figma" />
+  </div>
+</div>
 
 
 ## 📊 Stats
@@ -81,7 +91,6 @@ Some awesome tools & resources that help me build:
 - [Framer Motion](https://motion.dev)
 - [Shadcn/ui](https://ui.shadcn.com)
 - [Lucide Icons](https://lucide.dev/icons/)
-- [Shields.io](https://shields.io)
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [Rapier](www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiCk8HXlf6MAxUYTqQEHc1yNtgQFnoECCIQAQ&url=https%3A%2F%2Fgithub.com%2Fpmndrs%2Freact-three-rapier&usg=AOvVaw2GMet_EQbdtUXsQcWFzDbY&opi=89978449)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
