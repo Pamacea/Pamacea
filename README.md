@@ -48,22 +48,32 @@ Performance · UX · Clean Architecture
 > status
 Building cyber-ready web systems
 ````
+```
+
+```
 
 ## ⚙️ TECH.MODULES
 
+
 <div align="center">
+<img src="https://img.shields.io/badge/React-6A00FF?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-05010D?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-4CAF50?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-| UI       | CORE     | DATA          | OPS       |
-| -------- | -------- | ------------- | --------- |
-| React ⚛️ | Node.js  | PostgreSQL 🐘 | Docker 🐳 |
-| Next.js  | REST API | Prisma        | Git       |
-| Tailwind |          |               | Figma     |
+<br>
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/API%20REST-6A00FF?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-</div>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-05010D?style=for-the-badge&logo=prisma&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-05010D?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-FFC700?style=for-the-badge&logo=figma&logoColor=black" /> </div>
 
+<br>
+
+```
+
+```
 
 ## 🧪 FEATURED.BUILDS
+
 
 ```txt
 [✓] MODERN WEB PLATFORM
@@ -78,8 +88,9 @@ Building cyber-ready web systems
     → Experiments · Visuals · Code
 ```
 
-🔗 [Projects](https://github.com/Pamacea?tab=repositories)
+```
 
+```
 
 ## 📊 SYSTEM.METRICS
 
@@ -89,6 +100,11 @@ Building cyber-ready web systems
 
 </div>
 
+<br>
+
+```
+
+```
 
 ## 📡 CONNECT.NODE
 
