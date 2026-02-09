@@ -1,3 +1,8 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub release](https://img.shields.io/github/v/release/Pamacea/Pamacea)](https://github.com/Pamacea/Pamacea/releases/latest)
+[![CI](https://github.com/Pamacea/Pamacea/actions/workflows/ci.yml/badge.svg)](https://github.com/Pamacea/Pamacea/actions)
+
+
 
 <a id="readme-top"></a>
 
